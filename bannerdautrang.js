@@ -117,7 +117,7 @@ $(window).load(function() {s
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http//Goo.gl/S6F4zi' target='_blank'><img src='https://1.bp.blogspot.com/-1jGdbUXk3uM/WX85xz6t7mI/AAAAAAAAFRU/SeaHg4iY2VgT_pPXP7jO-IBnnvCYFbL0ACEwYBhgL/s320/h%25C3%25ACnh%2B%25E1%25BA%25A3nh%2Bth%25C3%25B9ng%2Bs%25C6%25A1n%2BEPIFLOOR.jpg' width='500px'/><br/>sơn chokwang</a>. LH: 0905766006. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http//goo.gl/SWEZ4J' target='_blank'><img src='https://1.bp.blogspot.com/-1jGdbUXk3uM/WX85xz6t7mI/AAAAAAAAFRU/SeaHg4iY2VgT_pPXP7jO-IBnnvCYFbL0ACEwYBhgL/s320/h%25C3%25ACnh%2B%25E1%25BA%25A3nh%2Bth%25C3%25B9ng%2Bs%25C6%25A1n%2BEPIFLOOR.jpg' width='500px'/><br/>sơn chokwang</a>. LH: 0905766006. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
